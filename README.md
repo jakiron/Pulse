@@ -19,7 +19,7 @@ Pulse offers the following novelties:
 | Features | Description |
 | --- | --- |
 | User polls | <ul><li>Create/Delete a poll</li><li>List of all the polls created</li> |
-| Trending polls | <ul><li>Trending polls from all the users</li><li>Vote for the poles from community users</li><ul><li>Statistics for trending polls</li> |
+| Trending polls | <ul><li>Trending polls from all the users</li><li>Vote for the poles from community users</li><li>Statistics for trending polls</li> |
 | Data storage | <ul><li>Cloud storage of polls, user details</li><li>Added Firebase support</li> |
 | Profile | Add/Edit user profile |
 | Icon | Added app icon |
